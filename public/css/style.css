@@ -1,0 +1,286 @@
+@media only screen and (min-width: 992px) {
+    #id_1{
+        padding: 15px;
+    }
+    .li_space{
+        margin-right: 25px;
+        border-radius: 2px;
+        padding: 7px;
+    }
+    #navbar_link a{
+        transition: background-color 0.9s, border-color 0.9s;
+        font-size: 18px;
+        color: white;
+        font-weight: 300;
+    }
+    #navbar_link a:hover{
+        background-color: #3498db;
+        border-color: #3498db;
+        border-radius: 2px;
+    }
+    #login_reg_btn{
+        position: absolute;
+        right: 8px;
+    }
+    #login_reg_btn button{
+        margin-left: 10px;
+    }
+    #td_space{
+        padding-bottom: 0px;
+    }
+    #bookImage{
+        width: 340px;
+    }
+    #food_img{
+        width: 100%;
+        height: 200px;
+    }
+
+}
+
+/* Only for small Screen */
+@media only screen and (max-width: 600px) {
+    #bookImage{
+        width: 140px;
+    }
+}
+#page-info {
+    text-align: center;
+}
+#page-info h5{
+    margin-top: 20px;
+    margin-bottom: 17px;
+}
+
+
+/* Universal */
+#page-list-table{
+    margin-top: 30px;
+}
+#page-list-table-core{
+    margin-bottom: 0px;
+}
+#active{
+    background-color: #3498db;
+    border-color: #3498db;
+    border-radius: 2px;
+}
+
+#importantBtn button{
+    margin-right: 10px;
+}
+
+#logo_main{
+    background-color: grey;
+    padding: 5px 10px;
+    border-radius: 4px;
+}
+
+#page-heading{
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 25px;
+    font-weight: 300;
+}
+#bookImage{
+    border: 5px solid black;
+    border-radius: 4px;
+}
+.footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    color: white;
+    text-align: center;
+    margin-top: 200px;
+}
+#action-button{
+    margin: 0px 0px 20px 0px;
+}
+#msg_padding{
+    padding-top: 10px;
+}
+#msg_padding2{
+    padding-bottom: 10px;
+}
+#footerPadding{
+    margin-bottom: 0;
+    padding: 20px;
+}
+.make_text_center{
+    text-align: center;
+}
+.table-header{
+    padding: 10px;
+    background-color: #34495e;
+    color: white;
+    font-weight: 300;
+}
+#pro_pic{
+    border: 2px solid grey;
+    border-radius: 8px;
+    margin-top: 20px;
+    width: 100%;
+    height: 200px;
+}
+#pro_pic_top{
+    border: 2px solid grey;
+    border-radius: 8px;
+    margin-top: 20px;
+    width: 50px;
+    height: 50px;
+    margin-top: 2px;
+}
+#user-name-head{
+    font-weight: 300;
+}
+#logoutBtn-2{
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+#page_img-sm{
+    width: 100px;
+    height: 100px;
+}
+#post-head{
+    padding: 5px;
+    background-color: #2d3436;
+    color: white;
+    border-radius: 5px;
+}
+#post-head-2{
+    padding: 5px;
+    background-color: #2d3436;
+    color: white;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+#post-image{
+    margin-top: 36px;
+}
+#food-update-image-modal{
+    margin-top: 0px;
+    padding: 0px;
+}
+#food-update-image-modal img{
+    width: 90%;
+    margin-top: 10px;
+}
+.post-img{
+    margin: 5px;
+}
+#margin-1{
+    margin-bottom: 0px;
+}
+.vote-space{
+    margin-left: 10px;
+}
+.vote-text-space{
+    margin: 6px;
+}
+#post-img-view{
+    max-width: 150px;
+    max-height: 150px;
+    border-radius: 5px;
+}
+#post-full-form{
+    padding: 10px;
+    background-color: #f0f1f2;
+    margin-top: 20px;
+    border-radius: 7px;
+    border: 1px solid #dfe1e3;
+}
+.post-pic-show{
+    width: 100%;
+    height: 300px;
+}
+#custom_post_data{
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+#err-msg{
+    margin-top: 20px;
+}
+#margin-10px{
+    margin-top: 20px;
+}
+#cat-table{
+    margin-top: 30px;
+}
+#user_name_head{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.no-padding{
+    padding: 0px;
+    margin-top: 10px;
+}
+.less-padd{
+    padding-top: 6px;
+}
+#food-action-byn-group button{
+    margin-left: 15px;
+}
+#post-image-2{
+    margin-top: 22px;
+    padding-left: 0px;
+}
+.no-padding-zero{
+    padding: 0px;
+}
+#serachUser{
+    margin-top: 20px;
+}
+#margin-10{
+    margin-top: 18px;
+}
+.less-padding{
+    padding-top: 10px;
+    padding-bottom: 0px;
+}
+#profile-pic-followlist{
+    width: 100%;
+    height: 100px;
+}
+#single-user-minicard{
+    margin-bottom: 15px;
+}
+#myTab{
+    margin-top: 24px;
+}
+.margin-1{
+    margin-top: 20px;
+}
+#home{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.ui-helper-center {
+    text-align: center;
+}
+#review_txt{
+    margin-top: 20px;
+}
+
+/* -- New CSS */
+.top-margin{
+    margin-top: 10px;
+}
+.left-margin{
+    margin-right: 10px;
+}
+.no-padding-left{
+    padding-left: 0px;
+}
+
+
+
+/* -- */
